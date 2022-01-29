@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @intunnel
-- 👀 I’m interested in data analytics, cyber security, and information technology.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in data analytics.
+- 🌱 I’m currently learning data anlytics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
